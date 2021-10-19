@@ -1,0 +1,3 @@
+[submodule "/openshiftplus/redhat/openshiftplus/roles/quay-installer-role"]
+	path = /openshiftplus/redhat/openshiftplus/roles/quay-installer-role
+	url = https://github.com/Red-Hat-SE-RTO/quay-installer-role.git
